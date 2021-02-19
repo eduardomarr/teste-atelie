@@ -2,7 +2,7 @@ import React, {useRef, useCallback, useState } from 'react';
 
 import * as Yup from 'yup';
 import { Form } from '@unform/web';
-// import api from '../../services/api'
+import api from '../../services/api'
 
 import { Container, FormContainer, Title, Description, InputContainer, GridContainer, Label, Icon, ModalMessage } from './styles';
 
@@ -68,7 +68,7 @@ function Home() {
   
         delete data.confirmpassword;
       
-        // await api.post('/costumer', data)
+        await api.post('/costumer', data);
 
         localStorage.setItem('email', data.email);
         localStorage.setItem('password', data.password);
