@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/108456148-66a46f00-724e-11eb-9c45-3a970d3892db.png" width=800 height=600>
+  <img src="https://user-images.githubusercontent.com/24718475/108456148-66a46f00-724e-11eb-9c45-3a970d3892db.png">
 </p>
 
 <h1>Teste Ateliê de Propaganda</h1>
@@ -24,16 +24,17 @@
 
 <h2>Como executar</h2>
 <pre>
-  // clonar o repositório
-  $ git clone https://github.com/eduardomarr/teste-atelie
-  
-  // Entrar no diretório do repositório clonado
-  $ cd teste-atelie
 
-  // instalar as dependências
-  $ yarn
+    // clonar o repositório
+    $ git clone https://github.com/eduardomarr/teste-atelie
+    
+    // Entrar no diretório do repositório clonado
+    $ cd teste-atelie
 
-  // Iniciar o projeto
-  $ yarn start
+    // instalar as dependências
+    $ yarn
+
+    // Iniciar o projeto
+    $ yarn start
 </pre>
 
