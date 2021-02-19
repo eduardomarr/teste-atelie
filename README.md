@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/108456148-66a46f00-724e-11eb-9c45-3a970d3892db.png" width=800 height=600>
+  <img src="https://user-images.githubusercontent.com/24718475/108456148-66a46f00-724e-11eb-9c45-3a970d3892db.png">
 </p>
 
 <h1>Teste Ateliê de Propaganda</h1>
