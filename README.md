@@ -4,8 +4,6 @@
 
 <h1>Teste Ateliê de Propaganda</h1>
 
-<a href="https://em-testeatelie.netlify.app/">Teste Website</a>
-
 <h2>Execução</h2>
   <p>
     Ao efetuar o cadastro, o usuário consegue realizar o login inserindo os dados de "E-mail" e "Senha" na pagina de Login.
